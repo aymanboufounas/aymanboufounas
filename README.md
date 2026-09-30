@@ -13,7 +13,8 @@
 
 I'm **Ayman Boufounas**, an **AI & Data Science student based in Morocco**.
 
-I build intelligent applications, automation systems, machine-learning projects, and modern web solutions. My goal is to combine **Artificial Intelligence, Data Science, and Software Engineering** to solve real-world problems with practical, scalable, and well-structured software.
+I build intelligent applications, automation systems, machine-learning projects, and modern web solutions.  
+My goal is to combine **Artificial Intelligence, Data Science, and Software Engineering** to solve real-world problems with practical, scalable, and well-structured software.
 
 ---
 
@@ -51,16 +52,25 @@ I build intelligent applications, automation systems, machine-learning projects,
 
 ---
 
+## AI Specializations
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- 📊 Data Analysis
+- ⚙️ Automation Systems
+
+---
+
 ## What I Focus On
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Data Analysis
-- 🧠 Deep Learning
-- ⚙️ Automation & Intelligent Systems
-- 🌐 Full-Stack Web Applications
-- 🗄️ Database Design & Management
-- 🔌 REST API Development
-- 🧩 Clean and scalable software architecture
+- Building AI-powered applications
+- Designing intelligent automation workflows
+- Developing machine learning and deep learning solutions
+- Working on NLP and Computer Vision projects
+- Creating full-stack web applications
+- Designing clean, scalable, and maintainable software
 
 ---
 
@@ -83,12 +93,14 @@ A chatbot project focused on answering frequently asked questions using AI and N
 
 ---
 
-## GitHub Stats
+## Currently Exploring
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aymanboufounas&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanboufounas&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+- Large Language Models (LLMs)
+- NLP applications
+- Computer Vision systems
+- AI for real-world problem solving
+- Data Science workflows
+- Intelligent software engineering
 
 ---
 
